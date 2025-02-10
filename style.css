@@ -3,8 +3,9 @@ body {
 }
 
 img {
-  width: 50%;
-  border-radius: 5px;
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
 }
 
 h1 {
