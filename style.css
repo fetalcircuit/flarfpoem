@@ -2,6 +2,12 @@ body {
   background-image: url("img/sleep0.png");
 }
 
+.unifrakturcook-bold {
+  font-family: "UnifrakturCook", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
 img {
   max-width: 50%;
   height: auto;
@@ -9,7 +15,7 @@ img {
 }
 
 h1 {
-  font-family: "Rubik Glitch", serif;
+  font-family: "UnifrakturCook", cursive;
   font-weight: 400;
   font-style: normal;
   color: white;
